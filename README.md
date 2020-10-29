@@ -1,5 +1,5 @@
 # Welcome to the Pathways to Education Lab
-We create + share technologies optimized for impact in the areas of youth well-being and education. 
+We create + share technology optimized for impact in the areas of youth well-being and education. 
 
 Thank you for contributing to our product development team - we’re thrilled to have you on board as we build the future of education. Here are some notes and best practices to keep us in sync on this journey.
 
