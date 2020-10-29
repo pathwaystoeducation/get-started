@@ -24,7 +24,7 @@ Thank you for contributing to our product development team - we’re thrilled to
 - Please name Branches and Pull Requests as per the guidelines above in Development Best Practices
 - Once the bug-fix is completed, please push the branch, rebasing off master if needed, and then create a pull-request with some brief information and referencing the Issue # in the PR Title
 - Wait for review, tagging other developers if necessary
-- Address any feedback, and merge PRs only when approved by at least one reviewer by using "Squash and Merge." 
+- Address any feedback, and merge PRs only when approved by at least one reviewer by using [Squash and Merge](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#squash-and-merge-your-pull-request-commits) 
 
 ## Tools we use
 - Code Editor: VS Code https://code.visualstudio.com/
