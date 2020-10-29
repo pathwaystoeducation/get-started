@@ -9,12 +9,12 @@ Thank you for contributing to our product development team - we’re thrilled to
 - Commit early, and commit often; provide short, insightful commit messages that note what's being added/modified and why
   (e.g. "**Add UI for Login Page**", or "**Remove Extra Character to Fix #21**", referencing Github Issues if needed) 
 - Always add as much documentation as possible - with comments in code, in readmes, wikis, etc.
-- Create pull-requests and always ensure PR is reviewed and approved before merging. This should at the very minimum be you reviewing your own code as a third party, but ideally involves at least one other member of the team
+- Create pull-requests and always ensure PR (Pull Request) is reviewed and approved before merging. This should at the very minimum be you reviewing your own code as a third party, but ideally involves at least one other member of the team
 
 ### Sample Development Workflow
 
 **Before development:**
-- Feedback is sent in email, slack, or other medium and should be logged as an Insight in ProductBoard
+- Feedback is sent in email, slack, or other medium and should be logged as an Insight in [ProductBoard](https://pathwayscanada.productboard.com/feature-board/1972714-feature-organization) *(Requires Login)*
 - Insights are collected and summarized weekly, and then logged as a Feature in ProductBoard. The colour next to the feature indicates current status
 - When ready to be worked on, features are pushed as Issues to their respective Github repository. As issues are being worked on, the status will be changed in ProductBoard.
 
@@ -33,5 +33,5 @@ Thank you for contributing to our product development team - we’re thrilled to
   - ES6 Code Snippets https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
   - Bracket Pair Colorizer https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
   
-- Git Client: https://www.git-tower.com/
+- Git Client: [Tower](https://www.git-tower.com/) or [Github Desktop](https://desktop.github.com/)
  
