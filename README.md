@@ -7,7 +7,7 @@ Thank you for contributing to our product development team - we’re thrilled to
 -  New to Github? [Get started here](https://guides.github.com/activities/hello-world/)
 - Please share all code in repositories under the [`pathwaystoeducation`](https://github.com/pathwaystoeducation) Github, and use branches to work independently. While not necessary, we recommend naming branches appropriately and [kebab-casing](https://medium.com/better-programming/string-case-styles-camel-pascal-snake-and-kebab-case-981407998841) names (i.e. `gradball-frontend`)
 - Commit early, and commit often; provide short, insightful commit messages that note what's being added/modified and why
-  (e.g. "**Add UI for Login Page**", or "**Remove Extra Character to Fix #21**", referencing Github Issues if needed) 
+  (e.g. "**Add UI for Student Login Page**", or "**Remove Extra Character to Fix #21**", referencing Github Issues if needed) 
 - Always add as much documentation as possible - with comments in code, in readmes, wikis, etc.
 - Create pull-requests and always ensure PR (Pull Request) is reviewed and approved before merging. This should at the very minimum be you reviewing your own code as a third party, but ideally involves at least one other member of the team
 
