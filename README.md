@@ -20,7 +20,7 @@ Thank you for contributing to our product development team - we’re thrilled to
 
 **During development:**
 - When working on an issue, please assign the Github Issue to yourself. Share comments or updates within the issue itself as necessary to keep others informed
-- Code should be worked on in a separate branch based on the latest master, unless absolutely required otherwise
+- Code should be worked on in a separate branch based on the latest main, unless absolutely required otherwise
 - Please name Branches and Pull Requests as per the guidelines above in Development Best Practices
 - Once the bug-fix is completed, please push the branch, rebasing off master if needed, and then create a pull-request with some brief information and referencing the Issue # in the PR Title
 - Wait for review, tagging other developers if necessary
