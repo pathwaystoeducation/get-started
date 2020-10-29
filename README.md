@@ -14,7 +14,7 @@ Thank you for contributing to our product development team - we’re thrilled to
 ### Sample Development Workflow
 
 **Before development:**
-- Feedback is sent in email, slack, or other medium and should be logged as an Insight in [ProductBoard](https://pathwayscanada.productboard.com/feature-board/1972714-feature-organization) *(Requires Login)*
+- Feedback sent in email, Slack, or other channels and should be logged as an Insight in [ProductBoard](https://pathwayscanada.productboard.com/feature-board/1972714-feature-organization) *(Requires Login)*
 - Insights are collected and summarized weekly, and then logged as a Feature in ProductBoard. The colour next to the feature indicates current status
 - When ready to be worked on, features are pushed as Issues to their respective Github repository. As issues are being worked on, the status will be changed in ProductBoard.
 
