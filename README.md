@@ -9,7 +9,7 @@ Thank you for contributing to our product development team - we’re thrilled to
 - Commit early, and commit often; provide short, insightful commit messages that note what's being added/modified and why
   (e.g. "**Add UI for Student Login Page**", or "**Remove Extra Character to Fix #21**", referencing Github Issues if needed) 
 - Always add as much documentation as possible - with comments in code, in readmes, wikis, etc.
-- Create pull-requests and always ensure PR (Pull Request) is reviewed and approved before merging. This should at the very minimum be you reviewing your own code as a third party, but ideally involves at least one other member of the team
+- Create pull-requests and always ensure PR (Pull Request) is reviewed and approved before merging. At the very minimum, this should be a thorough review of your own code, but ideally involves a third-party review by at least one other member of the team.
 
 ### Sample Development Workflow
 
